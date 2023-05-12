@@ -26,7 +26,7 @@ define( 'DB_NAME', 'prueba' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'be-Strong#12' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
